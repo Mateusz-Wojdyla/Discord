@@ -45,6 +45,16 @@ body{
     margin-top:20px;
     display: flex;
 }
+.discord{
+    width: 35px;
+    height:35px;
+    margin-left: 5px;
+    margin-top:5px;
+}
+.discort :hover{
+    color: brown;
+    cursor: grab;
+}
 .box1{
     width: 45px;
     height: 45px;
