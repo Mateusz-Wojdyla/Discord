@@ -52,8 +52,14 @@ body{
     background-color:rgb(73, 73, 230);
     margin-left:-45px;
     margin-top:90px;
-    display: flex;
     
+    
+}
+.plus{
+ width: 35px;
+ height:35px;
+ margin-left: 5px;
+ margin-top:5px;
 }
 .box2{
     width: 45px;
@@ -64,6 +70,12 @@ body{
     margin-top:150px;
     display:flex;
 }
+.compas{
+    width: 35px;
+    height:35px;
+    margin-left: 5px;
+    margin-top:5px;
+}
 .box3{
      width: 45px;
     height: 45px;
@@ -73,6 +85,12 @@ body{
     margin-top:220px;
     display:flex;
 
+}
+.download{
+    width: 30px;
+    height:30px;
+    margin-left: 7px;
+    margin-top:5px;
 }
 .search{
     display: flex;
